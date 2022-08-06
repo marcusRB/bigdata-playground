@@ -28,7 +28,7 @@
     "graphql-subscriptions": "1.0.0",
     "graphql-tools": "4.0.4",
     "kafka-node": "4.0.1",
-    "mongoose": "5.4.8",
+    "mongoose": "5.7.5",
     "morgan": "1.9.1",
     "path": "0.12.7",
     "subscriptions-transport-ws": "0.9.15",
